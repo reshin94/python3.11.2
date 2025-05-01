@@ -21,8 +21,7 @@ chevron==0.14.0
 click==8.1.7
 cloudpickle==3.0.0
 comm==0.2.1
-contourpy==1.2.0
-cron-descriptor==1.4.1
+cron-descriptor
 cryptography==42.0.5
 cycler==0.12.1
 cython==3.0.8
@@ -32,7 +31,7 @@ decorator==5.1.1
 defusedxml==0.7.1
 deprecated==1.2.14
 entrypoints==0.4
-executing==2.0.4
+executing
 fastapi==0.96.1
 fastjsonschema==2.19.1
 filelock==3.13.1
@@ -72,7 +71,6 @@ nbclassic==1.0.0
 nbclient==0.9.0
 nbconvert==7.16.2
 nest-asyncio==1.6.0
-nfourisid==0.0.1
 notebook-shim==0.2.3
 notebook==6.5.6
 numba==0.58.1
