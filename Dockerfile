@@ -10,7 +10,8 @@ RUN dnf update -y && \
     zlib-devel \
     bzip2 \
     bzip2-devel \
-    readline-devel \
+    libreadline \
+    libreadline-devel \
     libffi-devel \
     openssl-devel \
     xz-devel \
@@ -19,7 +20,6 @@ RUN dnf update -y && \
     git \
     which && \
     dnf clean all
-
 # Install Python 3.11.2
 ENV PYTHON_VERSION=3.11.2
 
