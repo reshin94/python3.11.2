@@ -32,7 +32,7 @@ defusedxml==0.7.1
 deprecated==1.2.14
 entrypoints==0.4
 executing
-fastapi==0.96.1
+fastapi
 fastjsonschema==2.19.1
 filelock==3.13.1
 fonttools==4.47.2
