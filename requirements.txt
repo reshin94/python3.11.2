@@ -168,3 +168,4 @@ nvidia-nvjitlink-cu12==12.3.101
 nvidia-nvtx-cu12==12.1.105
 triton==2.2.0
 schedule
+python-dotenv
